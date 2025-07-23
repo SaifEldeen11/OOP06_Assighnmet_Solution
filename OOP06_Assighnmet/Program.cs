@@ -1,5 +1,4 @@
-﻿using System.Threading.Channels;
-
+﻿// This Code was made by Eng Saif :)
 namespace OOP06_Assighnmet
 {
 
@@ -87,8 +86,17 @@ namespace OOP06_Assighnmet
             //Console.WriteLine(Original);  // Still (1, 2, 3) — proves it's a clone, not reference
             //Console.WriteLine(copy); 
             #endregion
-            #region 
 
+            #region Task Two
+            //int sum = Maths.Add(1, 2);
+            //int diff = Maths.Subtract(1, 2);
+            //int prod = Maths.Multiply(1, 2);
+            //int div = Maths.Divide(1, 2);
+
+            //Console.WriteLine($"Add: {sum}");
+            //Console.WriteLine($"Subtract: {diff}");
+            //Console.WriteLine($"Multiply: {prod}");
+            //Console.WriteLine($"Divide: {div}");
             #endregion
         }
     }
